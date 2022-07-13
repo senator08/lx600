@@ -1,0 +1,20 @@
+cntrl+alt+t - terminal
+ls - prosmotr direcroriy
+lc put_do_directoriy
+ls -a - prosmotr skrutux file
+mkdir name of directori - sozdanie directo
+cd - smena directori	
+. -back
+~ home director
+pwd - vuvod obsolut puti v konsol
+three 
+rmdir - delate
+rm -rf - super delate
+touch - sozdanie failov d toi ili ino dorector
+rm - delate file
+rm - rf name_file - super delate
+cat vivod soderjimogo v terminal
+echo  vivod ykazanogo teksta v terminal
+mv nazvanie file
+nano pyt open file text form
+
