@@ -18,3 +18,5 @@ echo  vivod ykazanogo teksta v terminal
 mv nazvanie file
 nano pyt open file text form
 
+mkdir test && cd test - обьединение команд
+
